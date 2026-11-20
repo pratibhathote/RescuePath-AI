@@ -1,0 +1,121 @@
+emergency_id,disaster_type,location_name,grid_row,grid_col,people_affected,severity,waiting_time_minutes,road_condition,record_origin,reference_source,source_url
+RP001,Flood,Hill View,0,3,44,6,89,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP002,Flood,Canal Road,2,3,27,8,128,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP003,Flood,Industrial Area,0,5,46,3,60,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP004,Flood,Outer Ring Sector,1,3,3,6,72,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP005,Flood,Hilltop Colony,1,7,27,5,56,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP006,Flood,Airport Road,7,2,30,6,15,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP007,Flood,City Hospital Zone,6,5,38,7,41,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP008,Flood,Green Park Edge,6,2,6,4,77,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP009,Flood,Residential Block,1,3,28,7,88,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP010,Flood,Central Market,2,2,39,7,113,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP011,Flood,West Forest Boundary,0,4,7,6,98,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP012,Flood,Warehouse District,0,5,28,4,132,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP013,Flood,Hill View,6,6,5,4,122,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP014,Flood,Canal Road,7,2,50,6,26,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP015,Flood,Industrial Area,2,2,4,3,124,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP016,Flood,Outer Ring Sector,6,4,14,10,135,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP017,Flood,Hilltop Colony,6,0,47,7,48,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP018,Flood,Airport Road,2,3,24,10,50,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP019,Flood,City Hospital Zone,6,7,11,5,107,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP020,Flood,Green Park Edge,2,6,3,5,94,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP021,Earthquake,Industrial Area,4,5,18,6,158,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP022,Earthquake,Outer Ring Sector,3,2,43,2,27,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP023,Earthquake,Hilltop Colony,3,3,58,9,55,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP024,Earthquake,Airport Road,6,3,8,8,153,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP025,Earthquake,City Hospital Zone,3,2,44,9,124,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP026,Earthquake,Green Park Edge,5,5,19,4,99,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP027,Earthquake,Residential Block,6,1,8,7,83,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP028,Earthquake,Central Market,5,6,43,8,45,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP029,Earthquake,West Forest Boundary,7,7,5,4,62,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP030,Earthquake,Warehouse District,0,2,45,8,61,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP031,Earthquake,Hill View,0,0,4,3,138,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP032,Earthquake,Canal Road,0,2,12,8,160,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP033,Earthquake,Industrial Area,1,6,50,8,76,blocked,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP034,Earthquake,Outer Ring Sector,5,5,47,4,142,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP035,Earthquake,Hilltop Colony,5,1,29,3,46,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP036,Earthquake,Airport Road,0,3,9,2,120,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP037,Earthquake,City Hospital Zone,2,6,51,6,31,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP038,Earthquake,Green Park Edge,6,2,3,3,48,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP039,Earthquake,Residential Block,3,4,27,3,113,safe,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP040,Earthquake,Central Market,2,4,11,2,61,risky,synthetic_simulation,USGS Earthquake Catalog category reference,https://earthquake.usgs.gov/earthquakes/search/
+RP041,Accident,Hilltop Colony,7,1,9,7,86,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP042,Accident,Airport Road,0,4,7,6,71,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP043,Accident,City Hospital Zone,6,4,9,4,89,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP044,Accident,Green Park Edge,2,3,11,2,16,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP045,Accident,Residential Block,2,1,8,4,2,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP046,Accident,Central Market,3,7,10,4,72,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP047,Accident,West Forest Boundary,7,7,12,7,75,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP048,Accident,Warehouse District,1,2,8,4,36,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP049,Accident,Hill View,2,7,10,7,34,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP050,Accident,Canal Road,6,4,11,5,10,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP051,Accident,Industrial Area,7,4,1,4,12,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP052,Accident,Outer Ring Sector,5,7,8,8,2,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP053,Accident,Hilltop Colony,0,6,12,3,38,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP054,Accident,Airport Road,4,0,1,6,6,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP055,Accident,City Hospital Zone,3,2,10,9,1,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP056,Accident,Green Park Edge,0,5,11,2,76,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP057,Accident,Residential Block,2,1,6,7,23,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP058,Accident,Central Market,2,1,7,6,90,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP059,Accident,West Forest Boundary,5,5,6,5,73,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP060,Accident,Warehouse District,2,4,7,8,66,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP061,Fire,City Hospital Zone,6,0,33,4,56,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP062,Fire,Green Park Edge,5,1,40,6,23,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP063,Fire,Residential Block,7,0,18,5,95,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP064,Fire,Central Market,6,4,18,4,80,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP065,Fire,West Forest Boundary,2,7,26,2,55,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP066,Fire,Warehouse District,0,4,30,7,27,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP067,Fire,Hill View,2,0,34,10,77,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP068,Fire,Canal Road,1,1,32,10,119,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP069,Fire,Industrial Area,4,6,20,2,64,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP070,Fire,Outer Ring Sector,1,3,39,5,15,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP071,Fire,Hilltop Colony,3,4,18,6,51,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP072,Fire,Airport Road,3,1,12,2,7,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP073,Fire,City Hospital Zone,0,2,38,3,46,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP074,Fire,Green Park Edge,7,7,14,10,73,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP075,Fire,Residential Block,4,3,21,6,12,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP076,Fire,Central Market,0,3,12,9,101,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP077,Fire,West Forest Boundary,6,6,39,10,38,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP078,Fire,Warehouse District,3,6,2,9,30,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP079,Fire,Hill View,6,7,31,6,8,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP080,Fire,Canal Road,6,1,2,7,30,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP081,Landslide,Residential Block,6,4,35,9,140,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP082,Landslide,Central Market,4,4,4,5,40,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP083,Landslide,West Forest Boundary,4,5,13,3,167,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP084,Landslide,Warehouse District,5,2,33,4,29,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP085,Landslide,Hill View,2,3,24,3,148,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP086,Landslide,Canal Road,0,5,22,9,8,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP087,Landslide,Industrial Area,7,0,11,6,28,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP088,Landslide,Outer Ring Sector,2,4,5,8,89,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP089,Landslide,Hilltop Colony,1,5,25,8,117,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP090,Landslide,Airport Road,1,7,12,5,100,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP091,Landslide,City Hospital Zone,1,7,9,5,30,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP092,Landslide,Green Park Edge,6,1,5,10,67,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP093,Landslide,Residential Block,6,6,31,9,95,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP094,Landslide,Central Market,5,2,31,3,33,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP095,Landslide,West Forest Boundary,0,2,5,7,6,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP096,Landslide,Warehouse District,7,2,24,5,170,safe,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP097,Landslide,Hill View,4,4,12,3,5,risky,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP098,Landslide,Canal Road,4,3,18,4,66,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP099,Landslide,Industrial Area,6,5,29,5,47,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP100,Landslide,Outer Ring Sector,6,6,33,8,55,blocked,synthetic_simulation,Project-defined simulation category,Not applicable - synthetic scenario
+RP101,Storm,West Forest Boundary,6,2,11,3,13,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP102,Storm,Warehouse District,1,0,8,3,107,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP103,Storm,Hill View,6,7,12,8,35,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP104,Storm,Canal Road,3,3,14,9,90,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP105,Storm,Industrial Area,0,7,18,8,11,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP106,Storm,Outer Ring Sector,2,2,22,5,115,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP107,Storm,Hilltop Colony,0,7,8,8,13,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP108,Storm,Airport Road,4,4,11,6,102,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP109,Storm,City Hospital Zone,4,7,24,8,48,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP110,Storm,Green Park Edge,5,0,10,3,20,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP111,Storm,Residential Block,5,1,26,5,93,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP112,Storm,Central Market,0,7,24,8,108,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP113,Storm,West Forest Boundary,5,7,18,3,99,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP114,Storm,Warehouse District,7,1,14,1,117,blocked,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP115,Storm,Hill View,4,3,16,4,75,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP116,Storm,Canal Road,7,2,14,1,72,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP117,Storm,Industrial Area,1,7,12,1,94,safe,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP118,Storm,Outer Ring Sector,1,6,20,8,38,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP119,Storm,Hilltop Colony,1,7,14,9,85,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
+RP120,Storm,Airport Road,4,0,27,2,88,risky,synthetic_simulation,NOAA Storm Events Database category reference,https://www.ncei.noaa.gov/access/storm-events-database/
